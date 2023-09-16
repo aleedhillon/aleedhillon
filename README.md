@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aleedhillon
-- 👀 I’m interested in Laravel, Node.js, Electron.js, Vue.js
+- 👀 I’m interested in Laravel, Node.js, Electron.js, Vue.js, DevOps
 - 📫 How to reach me aleedhx@gmail.com
 
 <!---
